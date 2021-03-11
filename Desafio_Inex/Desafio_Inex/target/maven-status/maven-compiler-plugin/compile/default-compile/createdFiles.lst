@@ -1,0 +1,4 @@
+com\desafio\Inex\Controller\CadastroController.class
+com\desafio\Inex\domain\CadastroRepository.class
+com\desafio\Inex\DesafioInexApplication.class
+com\desafio\Inex\model\Tabela.class
